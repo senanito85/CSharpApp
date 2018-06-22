@@ -54,7 +54,7 @@ namespace HelloApp
                         case 5:
                             string path = @"C:\Users\Professional\Desktop\picture.jpg";
                             Console.WriteLine(path);
-                            //Console.ReadKey();
+                            //Console.ReadKey();  //222
                             break;
 
                         case 6:
