@@ -1,0 +1,11 @@
+C:\Users\sibrahimov\Desktop\repos\HelloApp\bin\Debug\netcoreapp2.1\HelloApp.deps.json
+C:\Users\sibrahimov\Desktop\repos\HelloApp\bin\Debug\netcoreapp2.1\HelloApp.runtimeconfig.json
+C:\Users\sibrahimov\Desktop\repos\HelloApp\bin\Debug\netcoreapp2.1\HelloApp.runtimeconfig.dev.json
+C:\Users\sibrahimov\Desktop\repos\HelloApp\bin\Debug\netcoreapp2.1\HelloApp.dll
+C:\Users\sibrahimov\Desktop\repos\HelloApp\bin\Debug\netcoreapp2.1\HelloApp.pdb
+C:\Users\sibrahimov\Desktop\repos\HelloApp\obj\Debug\netcoreapp2.1\HelloApp.csprojAssemblyReference.cache
+C:\Users\sibrahimov\Desktop\repos\HelloApp\obj\Debug\netcoreapp2.1\HelloApp.csproj.CoreCompileInputs.cache
+C:\Users\sibrahimov\Desktop\repos\HelloApp\obj\Debug\netcoreapp2.1\HelloApp.AssemblyInfoInputs.cache
+C:\Users\sibrahimov\Desktop\repos\HelloApp\obj\Debug\netcoreapp2.1\HelloApp.AssemblyInfo.cs
+C:\Users\sibrahimov\Desktop\repos\HelloApp\obj\Debug\netcoreapp2.1\HelloApp.dll
+C:\Users\sibrahimov\Desktop\repos\HelloApp\obj\Debug\netcoreapp2.1\HelloApp.pdb
